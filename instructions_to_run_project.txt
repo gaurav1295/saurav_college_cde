@@ -1,0 +1,7 @@
+1.install node and npm 
+2. install mongoDb
+3.install git
+4.open individual folder and run npm install in cmd
+5.in client part run ng serve inside the folder
+6. in server part run npm run dev
+7.deployment is different for different users use google
